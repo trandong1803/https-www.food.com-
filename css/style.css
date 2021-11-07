@@ -531,6 +531,7 @@ html::-webkit-scrollbar-thumb {
       top: 1.2rem;
       right: 1.5rem;
       cursor: pointer;
+      background-color: var(--light-bg);
 }
 .popular .box-container .box .tym i{
     font-size: 2.5rem;

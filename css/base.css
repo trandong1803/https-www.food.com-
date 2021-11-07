@@ -211,7 +211,7 @@
         margin: 0;
     }
     .order form input{
+        height: 6rem;
         margin: 1rem 0;
-        padding: 2rem 0;
     }
 }
