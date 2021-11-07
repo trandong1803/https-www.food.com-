@@ -495,7 +495,6 @@ html::-webkit-scrollbar-thumb {
 }
 
 .about .content .icons-container .icons:hover{
-    -webkit-animation: zoom linear .5s infinite;
     transform: scale(1.05);
     box-shadow: 1rem 0 1rem rgba(0, 0, 0, 0.6);
     background-color: var(--green-color);
