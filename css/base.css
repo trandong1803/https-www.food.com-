@@ -211,6 +211,7 @@
         margin: 0;
     }
     .order form input{
-        padding: 1.2rem 1.5rem;
+        margin: 1rem 0;
+        padding: 2rem 0;
     }
 }
